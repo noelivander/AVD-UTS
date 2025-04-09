@@ -3,6 +3,8 @@
 By :
 Noel Ivander Pusung (221031002)
 
+Dalam dunia pendidikan, prestasi akademik siswa dipengaruhi oleh berbagai faktor, salah satunya adalah durasi belajar dan jumlah mata kuliah yang diambil. Analisis ini bertujuan untuk memahami sejauh mana kedua variabel tersebut memengaruhi nilai akhir siswa menggunakan pendekatan Decision Tree Regression. Dengan memanfaatkan data historis, model ini dibangun untuk mengidentifikasi pola hubungan antara input (time study dan number of courses) terhadap output (nilai). Pendekatan ini penting agar institusi pendidikan dapat membuat keputusan berbasis data, memberikan intervensi tepat waktu, serta membantu siswa dalam mengatur strategi belajar yang lebih efektif.
+
 Source : https://www.kaggle.com/datasets/yasserh/student-marks-dataset?resource=download
 
 # KESIMPULAN
